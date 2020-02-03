@@ -15,7 +15,7 @@ variables:
   - name: azure_resource_group_name
     value: "ServerProvisionTesting-$(Build.BuildId)"
   - name: subscription_id
-    value: "XXXXXXXXXXXXXXXXXXXXXXXXXX"
+    value: "5a6c6afb-75b7-4bf2-917d-431bdebc9ce3"
   - name: application_id
     value: "XXXXXXXXXXXXXXXXXXXXXXXXXX"
   - name: tenant_id
