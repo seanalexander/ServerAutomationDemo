@@ -17,9 +17,9 @@ variables:
   - name: subscription_id
     value: "5a6c6afb-75b7-4bf2-917d-431bdebc9ce3"
   - name: application_id
-    value: "XXXXXXXXXXXXXXXXXXXXXXXXXX"
+    value: "2cdef362-3c8f-4443-9dce-2d42e8c4e826"
   - name: tenant_id
-    value: "XXXXXXXXXXXXXXXXXXXXXXXXXX"
+    value: "1c176712-15f7-418c-95ac-46f6a6a595c5"
 
 steps:
   - task: PowerShell@2
